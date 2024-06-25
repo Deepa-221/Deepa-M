@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Deepa-221
+- 👋 Hi, I’m @Deepa M
 - 👀 I’m interested in Data analytic or Business analytic, where can i explore my skills to improve and help to organization.
 - 🌱 I’m currently learning Excel, My-SQL and power-BI
 - 💞️ I’m looking to collaborate on Data analytic or Business analytic.
