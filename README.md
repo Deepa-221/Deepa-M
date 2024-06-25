@@ -3,7 +3,8 @@
 - 🌱 I’m currently learning Excel, My-SQL and power-BI
 - 💞️ I’m looking to collaborate on Data analytic or Business analytic.
 - 📫 How to reach me ... deepagowdum@gmail.com, https://www.linkedin.com/in/deepa-gowdu-m/
-- [certificate.pdf](https://github.com/user-attachments/files/15974415/certificate.pdf)
+- [Data Analyst Phase certificate Deepa M.pdf](https://github.com/user-attachments/files/15974420/Data.Analyst.Phase.certificate.Deepa.M.pdf)
+
 
 <!---
 Deepa-221/Deepa-221 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
